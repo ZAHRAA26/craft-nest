@@ -4,10 +4,8 @@ import RegistrationForm from './features/auth/RegistrationForm/RegistrationForm'
 function App() {
 
   return (
-    <provider store={store}>  
 
     <RegistrationForm/>
-    </provider>
   )
 }
 
