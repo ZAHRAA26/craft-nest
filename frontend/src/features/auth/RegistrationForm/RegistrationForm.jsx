@@ -1,17 +1,21 @@
 import axios from "axios";
 import React from "react";
+import { yupResolver } from "@hookform/resolvers/yup";
 import { useForm } from "react-hook-form";
 import FormInput from "../../../components/FormInput/FormInput";
 import FormButton from "../../../components/FormButton/FormButton";
 import CraftSelect from "../../../components/CraftSelect/CraftSelect";
+import { getRegisterSchema } from "../../../validations/registerSchema";
 
 function RegistrationForm() {
+  const lang = localStorage.getItem("lang") || "ar";
   const {
     register,
     handleSubmit,
     formState: { errors },
-  } = useForm();
-
+  } = useForm({
+    resolver: yupResolver(getRegisterSchema(lang)),
+  });
   const registrationFormSubmission = async (formData) => {
     try {
       // let response = await axios.post(
@@ -73,7 +77,8 @@ function RegistrationForm() {
             <FormInput
               label={"الاسم بالكامل"}
               placeholder="احمد محمد"
-              {...register("name", { required: true })}
+              {...register("name")}
+              error={errors.name?.message}
             />
 
             {/* Input 2*/}
@@ -81,7 +86,8 @@ function RegistrationForm() {
               label={"البريد الالكتروني"}
               type="email"
               placeholder="ahmed@gmail.com"
-              {...register("email", { required: true })}
+              {...register("email")}
+              error={errors.email?.message}
             />
 
             {/* Input 3*/}
@@ -89,17 +95,30 @@ function RegistrationForm() {
               label={"كلمة السر"}
               type="password"
               placeholder="&#9679;&#9679;&#9679;&#9679;&#9679;&#9679;"
-              {...register("password", { required: true })}
+              {...register("password")}
+              error={errors.password?.message}
             />
 
             {/* Select  */}
-            <CraftSelect {...register("craftSpecialty", { required: true })} />
+            <CraftSelect
+              {...register("craftSpecialty")}
+              error={errors.craftSpecialty?.message}
+            />
 
-            {/* Text area bio */}
-            <textarea
-              {...register("bio", { required: true })}
-              placeholder="bio"
-            ></textarea>
+            {/* ✅ صح */}
+            <div className="flex flex-col gap-1">
+              <textarea
+                {...register("bio")}
+                placeholder="bio"
+                className={`border rounded-xl px-4 py-3 outline-none resize-none h-28
+      ${errors.bio ? "border-red-400" : "border-emerald-200"}`}
+              />
+              {errors.bio && (
+                <p className="text-red-500 text-xs mt-1">
+                  {errors.bio.message}
+                </p>
+              )}
+            </div>
 
             {/* Button */}
             <FormButton text={"انشاء حساب"} type="submit" />
