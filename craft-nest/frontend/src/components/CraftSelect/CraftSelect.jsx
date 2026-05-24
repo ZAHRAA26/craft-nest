@@ -1,10 +1,13 @@
-import React from "react";
+import React, { forwardRef } from "react";
 
-function CraftSelect(props) {
+
+const CraftSelect = forwardRef(function CraftSelect(props,ref) {
+  const {className="w-full px-4 py-2 border border-gray-300 rounded-lg bg-white text-gray-700 text-right focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition",...otherProps}= props
   return (
     <select
-      {...props}
-      className="w-full px-4 py-2 border border-gray-300 rounded-lg bg-white text-gray-700 text-right focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition"
+      {...otherProps}
+      ref={ref}
+      className={className}
       dir="rtl"
     >
       <option value="">اختر نوع الحرفة</option>
@@ -29,6 +32,6 @@ function CraftSelect(props) {
       </optgroup>
     </select>
   );
-}
+})
 
 export default CraftSelect;
