@@ -6,6 +6,10 @@ import FormInput from "../../../components/FormInput/FormInput";
 import FormButton from "../../../components/FormButton/FormButton";
 import CraftSelect from "../../../components/CraftSelect/CraftSelect";
 import { getRegisterSchema } from "../../../validations/registerSchema";
+import { Link } from "react-router-dom";
+import logo from "../../../../public/Nest.png"
+
+
 
 function RegistrationForm() {
   const lang = localStorage.getItem("lang") || "ar";
@@ -39,7 +43,7 @@ function RegistrationForm() {
         {/* Top Logo */}
         <div className="flex flex-col items-center mb-6">
           <div className="w-20 h-20 rounded-3xl bg-linear-to-br from-emerald-700 to-emerald-500 shadow-xl flex items-center justify-center text-white text-3xl">
-            Logo
+            <img src={logo}  alt='craft nest logo'/>
           </div>
 
           <h1 className="text-4xl font-black text-emerald-900 mt-5">
@@ -55,16 +59,11 @@ function RegistrationForm() {
         <div className="bg-[#f9f8f4] rounded-4xl shadow-2xl overflow-hidden border border-emerald-100">
           {/* Header */}
           <div className="bg-linear-to-r from-[#143d2d] to-[#2d8b57] p-8">
-            <div className="flex items-center justify-between">
-              <button className="bg-white/15 hover:bg-white/20 transition px-5 py-2 rounded-xl text-white text-sm font-medium">
-                رجوع
-              </button>
-
               <div className="text-right">
                 <h2 className="text-3xl font-black text-white">
                   بياناتك الأساسية
                 </h2>
-              </div>
+            
             </div>
           </div>
 
@@ -100,25 +99,25 @@ function RegistrationForm() {
             />
 
             {/* Select  */}
-            <CraftSelect
+            {/* <CraftSelect
               {...register("craftSpecialty")}
               error={errors.craftSpecialty?.message}
-            />
+            /> */}
 
             {/* ✅ صح */}
-            <div className="flex flex-col gap-1">
+            {/* <div className="flex flex-col gap-1">
               <textarea
                 {...register("bio")}
                 placeholder="bio"
                 className={`border rounded-xl px-4 py-3 outline-none resize-none h-28
-      ${errors.bio ? "border-red-400" : "border-emerald-200"}`}
+                ${errors.bio ? "border-red-400" : "border-emerald-200"}`}
               />
               {errors.bio && (
                 <p className="text-red-500 text-xs mt-1">
                   {errors.bio.message}
                 </p>
               )}
-            </div>
+            </div> */}
 
             {/* Button */}
             <FormButton text={"انشاء حساب"} type="submit" />
@@ -126,7 +125,7 @@ function RegistrationForm() {
             {/* Login */}
             <p className="text-center text-emerald-900 font-medium">
               لديك حساب بالفعل؟
-              <span className="font-black cursor-pointer mr-1">سجل دخولك</span>
+              <Link to={"/login"} className="font-black cursor-pointer mr-1">سجل دخولك</Link>
             </p>
           </form>
         </div>
