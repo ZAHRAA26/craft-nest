@@ -1,0 +1,22 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const passport_1 = __importDefault(require("passport"));
+const authController_1 = require("../controllers/authController");
+const validation_1 = require("../middleware/validation");
+const authSchemas_1 = require("../validators/authSchemas");
+const asyncHandler_1 = require("../utils/asyncHandler");
+const rateLimiter_1 = require("../middleware/rateLimiter");
+const router = (0, express_1.Router)();
+router.get('/me', passport_1.default.authenticate('jwt', { session: false }), (0, asyncHandler_1.asyncHandler)(authController_1.getMe));
+router.post('/logout', passport_1.default.authenticate('jwt', { session: false }), (0, validation_1.validateBody)(authSchemas_1.logoutSchema), (0, asyncHandler_1.asyncHandler)(authController_1.logout));
+router.post('/register', rateLimiter_1.authLimiter, (0, validation_1.validateBody)(authSchemas_1.registerSchema), (0, asyncHandler_1.asyncHandler)(authController_1.register));
+router.post('/login', rateLimiter_1.authLimiter, (0, validation_1.validateBody)(authSchemas_1.loginSchema), (0, asyncHandler_1.asyncHandler)(authController_1.login));
+router.post('/refresh-token', (0, validation_1.validateBody)(authSchemas_1.refreshTokenSchema), (0, asyncHandler_1.asyncHandler)(authController_1.refreshToken));
+router.post('/forgot-password', rateLimiter_1.authLimiter, (0, validation_1.validateBody)(authSchemas_1.forgotPasswordSchema), (0, asyncHandler_1.asyncHandler)(authController_1.forgotPassword));
+router.post('/reset-password', rateLimiter_1.authLimiter, (0, validation_1.validateBody)(authSchemas_1.resetPasswordSchema), (0, asyncHandler_1.asyncHandler)(authController_1.resetPassword));
+router.get('/verify-email', (0, validation_1.validateQuery)(authSchemas_1.verifyEmailSchema), (0, asyncHandler_1.asyncHandler)(authController_1.verifyEmail));
+exports.default = router;

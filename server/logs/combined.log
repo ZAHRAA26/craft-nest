@@ -1,0 +1,1017 @@
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:02:33"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:02:33"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:03:18"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:03:18"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:05:37"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:05:37"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:05:49"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:05:49"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:08:07"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:08:07"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:10:00"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:10:00"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:10:51"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:10:51"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:15:15"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:15:15"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:15:59"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:15:59"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:16:09"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:16:09"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:18:00"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:18:00"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:19:49"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:19:49"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:19:56"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-01 05:20:03"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 05:20:12"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:21:20"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:21:20"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-01 05:21:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 05:21:32"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:23:24"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:23:24"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:24:08"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:24:08"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:24:25"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:24:25"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:25:21"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:25:21"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-01 05:27:05"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:27:06"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:27:06"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:27:22"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:27:22"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:29:24"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:29:24"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:34:55"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:34:55"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:37:01"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:37:01"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:17"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:17"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:37:17"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 05:38:24"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 05:39:29"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 05:39:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 05:40:01"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 05:40:09"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 05:40:34"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:20:08"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:20:08"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:22:44"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:22:44"}
+{"level":"info","message":"Secret Key: 36f94aded47bd1cfc81e2cb4076dfe5e6fdfdee10f89f909c80ff3b49306da61c410fc37431219ddc26a86a612cc644b5444cc21474764f2bb970ba13423cf7d","service":"crafts-backend","timestamp":"2026-06-01 16:22:44"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:23:41"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:23:41"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:25:29"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:25:29"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:28:05"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:28:05"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-01 16:28:37"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-01 16:28:37"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-01 16:28:37"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-01 16:28:37"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-01 16:28:37"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:29:05"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:29:26"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-01 16:29:48"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:30:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:30:14"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:30:38"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:30:38"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:30:59"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:30:59"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:38:58"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:38:58"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:40:30"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:40:30"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:40:39"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:40:39"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 16:41:19"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:41:19"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:41:19"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 16:42:00"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:42:00"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:42:00"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 16:43:33"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:43:33"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:43:33"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 16:46:41"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:46:41"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:46:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:47:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-01 16:49:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:49:47"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:50:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:52:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:53:48"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:54:51"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:55:42"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 16:59:00"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 16:59:01"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 16:59:01"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 16:59:05"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 17:01:16"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 17:01:16"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 17:01:16"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 17:04:43"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 17:04:43"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 17:04:43"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 17:06:21"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 17:06:21"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 17:06:21"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 17:07:42"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 17:07:42"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 17:07:42"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-01 17:11:20"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-01 17:11:20"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-01 17:11:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 17:13:07"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-01 17:13:25"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 12:34:12"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 12:34:12"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 12:34:12"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-02 12:34:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-02 12:34:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-02 12:34:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-02 12:34:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-02 12:34:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 12:36:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:37:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:38:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:38:54"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:39:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:39:46"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:40:19"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:41:00"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:41:16"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 12:44:53"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 12:44:53"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 12:44:53"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 12:46:02"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 12:46:02"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 12:46:02"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 12:52:58"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 12:52:58"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 12:52:58"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 12:55:32"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 12:55:33"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 12:55:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:56:14"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:56:49"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:57:12"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:57:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:57:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:58:29"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 12:59:41"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 12:59:42"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 12:59:42"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 12:59:49"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 13:01:36"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 13:01:36"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 13:01:36"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 13:02:04"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 13:02:15"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 13:02:26"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 13:05:22"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 13:05:22"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 13:05:22"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 13:38:54"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 13:38:54"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 13:38:54"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 13:39:10"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 13:39:10"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 13:39:10"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 13:41:31"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 13:41:31"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 13:41:31"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:03:46"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:03:46"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:03:46"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:04:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:04:45"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:05:15"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:06:58"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:06:58"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:06:58"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:07:09"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-02 14:07:15"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-02 14:07:28"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:09:35"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:09:35"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:09:35"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:11:50"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:11:50"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:11:50"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-02 14:11:52"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:13:27"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:13:27"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:13:27"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:13:46"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:13:46"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:13:46"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-02 14:13:47"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-02 14:13:51"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:15:16"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-02 14:15:43"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:15:51"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:16:03"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:41"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-02 14:19:42"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:19:54"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:21:21"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:22:08"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:24:03"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:24:03"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:24:03"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:24:20"}
+{"level":"warn","message":"📧 Email could not be sent to adham.os1988@gmail.com (SMTP Server down), but registration will continue. Error: connect ECONNREFUSED 127.0.0.1:1025","service":"crafts-backend","timestamp":"2026-06-02 14:24:22"}
+{"level":"info","message":"🔗 Email Content for adham.os1988@gmail.com:\nSubject: تأكيد البريد الإلكتروني\nText: شكرًا لتسجيلك في منصة الحرف اليدوية. لتفعيل حسابك، يرجى الضغط على الزر التالي: http://localhost:4000/api/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTFlYmQ2NWI4MzBlZWNmOGYxYTk4NzEiLCJhY3Rpb24iOiJ2ZXJpZnkiLCJpYXQiOjE3ODAzOTk0NjIsImV4cCI6MTc4MDQ4NTg2Mn0.Qcbo8ltaddshjaP8EQZTQQpjLMxnYghurjBRzh1xOkA","service":"crafts-backend","timestamp":"2026-06-02 14:24:22"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:25:46"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:25:46"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:25:46"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:29:12"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:29:12"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:29:12"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:30:15"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:30:16"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:30:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:30:17"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:30:22"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:30:48"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:31:19"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:33:19"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:33:19"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:33:19"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:33:23"}
+{"level":"warn","message":"📧 Email could not be sent to user@example.com (SMTP Server down), but registration will continue. Error: connect ECONNREFUSED ::1:1025","service":"crafts-backend","timestamp":"2026-06-02 14:33:24"}
+{"level":"info","message":"🔗 Email Content for user@example.com:\nSubject: تأكيد البريد الإلكتروني\nText: شكرًا لتسجيلك في منصة الحرف اليدوية. لتفعيل حسابك، يرجى الضغط على الزر التالي: http://localhost:4000/api/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTFlYmY4NGZjYzUwNGZmODIwZWFlZGIiLCJhY3Rpb24iOiJ2ZXJpZnkiLCJpYXQiOjE3ODA0MDAwMDQsImV4cCI6MTc4MDQ4NjQwNH0.eOxTQ9-zTc0BHGKqmZvze0jOsHYoiStNxYIfcJez7dU","service":"crafts-backend","timestamp":"2026-06-02 14:33:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:33:59"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:34:49"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:34:49"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:34:49"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:36:52"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:36:52"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:36:52"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-02 14:39:12"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-02 14:39:12"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-02 14:39:12"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:40:44"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-02 14:41:14"}
+{"level":"warn","message":"📧 Email could not be sent to user@example.com (SMTP Server down), but registration will continue. Error: connect ECONNREFUSED ::1:1025","service":"crafts-backend","timestamp":"2026-06-02 14:41:16"}
+{"level":"info","message":"🔗 Email Content for user@example.com:\nSubject: تأكيد البريد الإلكتروني\nText: شكرًا لتسجيلك في منصة الحرف اليدوية. لتفعيل حسابك، يرجى الضغط على الزر التالي: http://localhost:4000/api/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTFlYzE1YzM5MjZmNWFhMzRkYmI1OWYiLCJhY3Rpb24iOiJ2ZXJpZnkiLCJpYXQiOjE3ODA0MDA0NzYsImV4cCI6MTc4MDQ4Njg3Nn0.9X3gI5LQu4revIaWwC_6xTObGPZQODvjI6HnSELU4RY","service":"crafts-backend","timestamp":"2026-06-02 14:41:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-02 14:42:02"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-03 17:09:09"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-03 17:09:09"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-03 17:09:09"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-03 17:09:13"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-03 17:09:13"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-03 17:09:13"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-03 17:09:13"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-03 17:09:13"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:38"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:38"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:38"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:38"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:38"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:38"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-03 17:09:39"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-03 17:10:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-03 17:10:28"}
+{"level":"warn","message":"📧 Email could not be sent to user1@example.com (SMTP Server down), but registration will continue. Error: connect ECONNREFUSED ::1:1025","service":"crafts-backend","timestamp":"2026-06-03 17:10:29"}
+{"level":"info","message":"🔗 Email Content for user1@example.com:\nSubject: تأكيد البريد الإلكتروني\nText: شكرًا لتسجيلك في منصة الحرف اليدوية. لتفعيل حسابك، يرجى الضغط على الزر التالي: http://localhost:4000/api/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTIwMzVkNTA4NjY4MzY3NTg4MTcyNjciLCJhY3Rpb24iOiJ2ZXJpZnkiLCJpYXQiOjE3ODA0OTU4MjksImV4cCI6MTc4MDU4MjIyOX0.8cgszgRFEiZK6dAvHwPx6FcQ9r7YdFnIVNiDCo6sdOE","service":"crafts-backend","timestamp":"2026-06-03 17:10:29"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 03:52:33"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 03:52:33"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 03:52:33"}
+{"level":"info","message":"Session Secret: 66de7be5d15815ed","service":"crafts-backend","timestamp":"2026-06-04 03:55:52"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 03:55:52"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 03:55:52"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 03:55:52"}
+{"level":"info","message":"Session Secret: 385caf8cfe579b8d","service":"crafts-backend","timestamp":"2026-06-04 03:58:17"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 03:58:17"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 03:58:17"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 03:58:17"}
+{"level":"info","message":"Session Secret: 4d7154d97711de2f","service":"crafts-backend","timestamp":"2026-06-04 03:58:32"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 03:58:32"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 03:58:32"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 03:58:32"}
+{"level":"info","message":"Session Secret: 9fcb59c3511f4eb9","service":"crafts-backend","timestamp":"2026-06-04 03:59:12"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 03:59:12"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 03:59:12"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 03:59:12"}
+{"level":"info","message":"Session Secret: a340921b6def18dc","service":"crafts-backend","timestamp":"2026-06-04 04:00:56"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:00:56"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:00:56"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:00:56"}
+{"level":"info","message":"Session Secret: f69fbb75d5ca1e43","service":"crafts-backend","timestamp":"2026-06-04 04:01:22"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:01:22"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:01:23"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:01:23"}
+{"level":"info","message":"Session Secret: fc163fbe529cb563","service":"crafts-backend","timestamp":"2026-06-04 04:02:11"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:02:11"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:02:12"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:02:12"}
+{"level":"info","message":"Session Secret: 6eeb9b729f5b826b03d38eba08607e465e36887c3a0461c498e1b52d1f95c61b31a790193d3019e1f3f6322374627d08c4e6796d90378cdee41f9f69cd1d8e2f","service":"crafts-backend","timestamp":"2026-06-04 04:03:16"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:03:16"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:03:16"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:03:16"}
+{"level":"info","message":"Session Secret: cffd9f3bb2322e2671e98ea018bd5d17b01002d1794fcd5f3d7a863db0df557b","service":"crafts-backend","timestamp":"2026-06-04 04:03:58"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:03:58"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:03:58"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:03:58"}
+{"level":"info","message":"Session Secret: 9389e36d87d23ee8e2db5d516853614f9a77f4e2a9a48abdda135560d3a5840a","service":"crafts-backend","timestamp":"2026-06-04 04:05:23"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:05:23"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:05:23"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:05:23"}
+{"level":"info","message":"Session Secret: 87954a8cb815ce84c70591d6eb557e8fdc61967d3598aa233c819ba8bdfbf315","service":"crafts-backend","timestamp":"2026-06-04 04:05:52"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:05:52"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:05:52"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:05:52"}
+{"level":"info","message":"Session Secret: bc68e6e90e62f6ef5733158c830d455203a0f37b31f4c2bd7b34c8bd5ec18b06","service":"crafts-backend","timestamp":"2026-06-04 04:06:56"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:06:56"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:06:56"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:06:56"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:07:58"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:07:58"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:07:58"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:08:42"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:08:42"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:08:42"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:09:56"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:09:56"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:09:56"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:10:16"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:10:16"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:10:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:13:53"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:13:53"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:13:53"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:13:53"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:13:53"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:14:37"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:14:37"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:14:37"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:14:48"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:14:48"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:14:48"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:14:48"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:14:48"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:15:52"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:15:52"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:15:52"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:16:24"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:16:24"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:16:24"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:16:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:16:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:16:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:16:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:16:39"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:17:26"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:17:26"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:17:26"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:17:51"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:17:51"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:17:51"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:17:51"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:17:51"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:22:32"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:22:32"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:22:32"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:25:59"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:25:59"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:25:59"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:26:01"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:26:01"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:26:01"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:26:01"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:26:01"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:28:42"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:28:42"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:28:42"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:29:31"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:29:32"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:29:32"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:30:03"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:30:03"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:30:03"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:30:37"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:30:37"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:30:38"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:31:19"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:31:20"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:31:20"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:31:47"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:31:47"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:31:47"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:31:47"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:31:47"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:32:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:34:16"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:34:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:34:48"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:35:51"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:35:51"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:35:51"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:36:15"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:36:23"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:36:25"}
+{"level":"info","message":"🔗 Content:\nSubject: تأكيد البريد الإلكتروني\nText: شكرًا لتسجيلك في منصة الحرف اليدوية. لتفعيل حسابك، يرجى الضغط على الزر التالي: http://localhost:4000/api/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTIwZDY5OTQ1OTlkNWU0Njg4MjMyZWIiLCJhY3Rpb24iOiJ2ZXJpZnkiLCJpYXQiOjE3ODA1MzY5ODUsImV4cCI6MTc4MDYyMzM4NX0.B6XbNaihUi-WdSagkRhqDM0gkGxfdzdV06QrbuegWAw","service":"crafts-backend","timestamp":"2026-06-04 04:36:25"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 04:36:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:37:31"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-04 04:38:27"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 04:39:48"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 04:39:49"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 04:39:49"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-04 04:40:18"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:40:18"}
+{"level":"info","message":"🔗 Content:\nSubject: Welcome to Crafts Platform\nText: Hello Sami Al-Harbi! Your account has been successfully verified. You can now start using our services and follow the latest updates.","service":"crafts-backend","timestamp":"2026-06-04 04:40:18"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:02"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:02"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:02"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:06"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:06"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:06"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:20"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:20"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:25"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:26"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:27"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:30"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:33"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:41:36"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:41:36"}
+{"level":"info","message":"🔗 Content:\nSubject: أهلاً وسهلاً بك في منصة الحرف اليدوية\nText: مرحبًا Sami Al-Harbi! تم تفعيل حسابك بنجاح. الآن يمكنك بدء استخدام خدماتنا ومتابعة كل جديد.","service":"crafts-backend","timestamp":"2026-06-04 04:41:36"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:42:54"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:43:55"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user2@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:43:55"}
+{"level":"info","message":"🔗 Content:\nSubject: إعادة تعيين كلمة المرور\nText: لقد طلبت استعادة كلمة المرور. اضغط الزر التالي لإنشاء كلمة مرور جديدة: http://localhost:4000/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTIwZDY5OTQ1OTlkNWU0Njg4MjMyZWIiLCJhY3Rpb24iOiJyZXNldCIsImlhdCI6MTc4MDUzNzQzNSwiZXhwIjoxNzgwNTQxMDM1fQ.ipDDtSFBJTm098TtEvssaXd_c8Q1R07WLqyrHtUxZHg","service":"crafts-backend","timestamp":"2026-06-04 04:43:55"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:46:29"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:46:50"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:47:19"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:47:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:47:47"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:20"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 04:51:21"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 04:51:37"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user@example.com","service":"crafts-backend","timestamp":"2026-06-04 04:51:37"}
+{"level":"info","message":"🔗 Content:\nSubject: إعادة تعيين كلمة المرور\nText: لقد طلبت استعادة كلمة المرور. اضغط الزر التالي لإنشاء كلمة مرور جديدة: http://localhost:4000/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTIwZDVhYTg1NWNjOGE2ZWJlMDA1ZWMiLCJhY3Rpb24iOiJyZXNldCIsImlhdCI6MTc4MDUzNzg5NywiZXhwIjoxNzgwNTQxNDk3fQ.NmSHZZpXXS47oCe5THn7Lt29uO-6hMnBy6bMhl_T1YM","service":"crafts-backend","timestamp":"2026-06-04 04:51:37"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:06:06"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:06:06"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:06:06"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:09:21"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:09:21"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:09:21"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:09:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:09:54"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:10:08"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:10:32"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:12:42"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:12:42"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:12:42"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:14:40"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:14:40"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:14:40"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:15:09"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:26:15"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user3@example.com","service":"crafts-backend","timestamp":"2026-06-04 05:26:15"}
+{"level":"info","message":"🔗 Content:\nSubject: تأكيد البريد الإلكتروني\nText: شكرًا لتسجيلك في منصة الحرف اليدوية. لتفعيل حسابك، يرجى الضغط على الزر التالي: http://localhost:4000/api/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTIwZTI0N2ZlNzM4NTc3N2IwM2MwZTkiLCJhY3Rpb24iOiJ2ZXJpZnkiLCJpYXQiOjE3ODA1Mzk5NzUsImV4cCI6MTc4MDYyNjM3NX0.WbfvUHA0V_1xyDwrqXJWS6eqfuT9byOtTd-wo121YZ4","service":"crafts-backend","timestamp":"2026-06-04 05:26:15"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:29:05"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:29:05"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:29:05"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:29:25"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:29:25"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:29:25"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:34:02"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:34:02"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:34:02"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:34:56"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:35:06"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:35:55"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:36:32"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:36:38"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:37:07"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:38:05"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:40:27"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:40:27"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:40:27"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:42:02"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:42:02"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:42:02"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:42:10"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:42:24"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:42:35"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:42:47"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:11"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:11"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:11"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:11"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:11"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:11"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:11"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:12"}
+{"level":"debug","message":"Detected Language: ar | Header: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7","service":"crafts-backend","timestamp":"2026-06-04 05:44:12"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:44:28"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:44:36"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:45:34"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:45:34"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:45:34"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:45:43"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:46:03"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:46:10"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:46:31"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:46:54"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:47:51"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:47:51"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:47:51"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:48:01"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:54:36"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:54:36"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:54:36"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:55:18"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-04 05:55:35"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 05:58:16"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 05:58:16"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 05:58:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 05:58:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 05:59:01"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 06:00:05"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 06:00:05"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 06:00:05"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 06:00:05"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 06:00:05"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 07:59:43"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 07:59:43"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 07:59:43"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 07:59:47"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 07:59:53"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 08:00:19"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 09:00:08"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 09:00:08"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 09:00:08"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:00:14"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 09:44:52"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 09:44:52"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 09:44:52"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:44:56"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:44:56"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:44:56"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:44:56"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:44:56"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 09:46:57"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 09:46:57"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 09:46:57"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:47:00"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:47:00"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:47:00"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:47:00"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:47:00"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:47:35"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:47:35"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:47:35"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:47:35"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:47:35"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:47:35"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 09:51:17"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 09:51:17"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 09:51:17"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:51:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:51:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:51:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:51:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:51:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:51:31"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 09:52:43"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 09:52:43"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 09:52:43"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 09:53:30"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 09:53:30"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 09:53:30"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:53:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:53:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:53:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:53:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-04 09:53:31"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:53:38"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:53:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:53:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:53:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:53:39"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:53:39"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-04 09:57:16"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-04 09:57:16"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-04 09:57:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:57:50"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:57:50"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:57:50"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:57:50"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:57:50"}
+{"level":"debug","message":"Detected Language: en | Header: en-US,en;q=0.9","service":"crafts-backend","timestamp":"2026-06-04 09:57:50"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-05 04:27:23"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-05 04:27:23"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-05 04:27:23"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:27:27"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:27:27"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:27:27"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:27:27"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:27:27"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-05 04:27:51"}
+{"level":"debug","message":"Detected Language: en | Header: en","service":"crafts-backend","timestamp":"2026-06-05 04:29:25"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-05 04:40:31"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-05 04:40:31"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-05 04:40:31"}
+{"level":"info","message":"Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-05 04:45:40"}
+{"level":"info","message":"Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-05 04:45:40"}
+{"level":"info","message":"Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-05 04:45:40"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:45:45"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:45:45"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:45:45"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:45:45"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-05 04:45:45"}
+{"level":"debug","message":"Detected Language: ar | Header: ar","service":"crafts-backend","timestamp":"2026-06-05 04:45:59"}
+{"level":"info","message":"📧 [DEV MODE] Email skip (No SMTP Host). Target: user@example.com","service":"crafts-backend","timestamp":"2026-06-05 04:46:00"}
+{"level":"info","message":"🔗 Content:\nSubject: تأكيد البريد الإلكتروني\nText: شكرًا لتسجيلك في منصة الحرف اليدوية. لتفعيل حسابك، يرجى الضغط على الزر التالي: http://localhost:4000/api/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2YTIyMmE1OGRjNzJlMDhjMjE5NWI5MmMiLCJhY3Rpb24iOiJ2ZXJpZnkiLCJpYXQiOjE3ODA2MjM5NjAsImV4cCI6MTc4MDcxMDM2MH0.qHuTC_nH3azs-xa-3QlTP2A60sFKrsOqFz5znx8Z2Kk","service":"crafts-backend","timestamp":"2026-06-05 04:46:00"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 14:09:56"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 14:09:56"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 14:09:57"}
+{"level":"info","message":"📚 Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-10 14:09:57"}
+{"level":"info","message":"🌍 Environment: development","service":"crafts-backend","timestamp":"2026-06-10 14:09:57"}
+{"level":"debug","message":"Detected Language: ar | Header: undefined","service":"crafts-backend","timestamp":"2026-06-10 14:10:21"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 14:11:10"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 14:11:10"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 14:11:10"}
+{"level":"info","message":"📚 Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-10 14:11:10"}
+{"level":"info","message":"🌍 Environment: development","service":"crafts-backend","timestamp":"2026-06-10 14:11:10"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-10 14:11:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-10 14:11:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-10 14:11:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-10 14:11:16"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-10 14:11:16"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 14:13:06"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 14:13:06"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 14:13:06"}
+{"level":"info","message":"📚 Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-10 14:13:06"}
+{"level":"info","message":"🌍 Environment: development","service":"crafts-backend","timestamp":"2026-06-10 14:13:06"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 14:36:07"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 14:36:07"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 14:36:07"}
+{"level":"info","message":"📚 Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-10 14:36:07"}
+{"level":"info","message":"🌍 Environment: development","service":"crafts-backend","timestamp":"2026-06-10 14:36:07"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 14:59:50"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 14:59:50"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 14:59:50"}
+{"level":"info","message":"📚 Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-10 14:59:50"}
+{"level":"info","message":"🌍 Environment: development","service":"crafts-backend","timestamp":"2026-06-10 14:59:50"}
+{"level":"info","message":"🛡️ Security mode enabled: Traditional Console blocked, logs redirected to Winston.","service":"crafts-backend","timestamp":"2026-06-10 15:00:36"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 15:00:38"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 15:00:39"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 15:00:39"}
+{"level":"info","message":"📚 Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-10 15:00:39"}
+{"level":"info","message":"🌍 Environment: production","service":"crafts-backend","timestamp":"2026-06-10 15:00:39"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 15:07:32"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 15:07:32"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 15:07:32"}
+{"level":"info","message":"📚 Swagger: http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-10 15:07:32"}
+{"level":"info","message":"🌍 Environment: development","service":"crafts-backend","timestamp":"2026-06-10 15:07:32"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-10 15:30:19"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-10 15:30:19"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-10 15:30:19"}
+{"level":"debug","message":"Detected Language: en | Header: en-US","service":"crafts-backend","timestamp":"2026-06-10 15:30:34"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:14:24"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:14:24"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-12 19:14:24"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:16:23"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:16:23"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-12 19:16:23"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:24:49"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:24:49"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-12 19:24:49"}
+{"level":"info","message":"🚀 Server running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:36:05"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:36:05"}
+{"level":"info","message":"✅ Database connected successfully","service":"crafts-backend","timestamp":"2026-06-12 19:36:05"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:38:08"}
+{"level":"info","message":"Server is running on port 4000","service":"crafts-backend","timestamp":"2026-06-12 19:38:08"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:47:23"}
+{"level":"info","message":"Server is running on port 4000","service":"crafts-backend","timestamp":"2026-06-12 19:47:23"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:53:00"}
+{"level":"info","message":"Server is running on port 4000","service":"crafts-backend","timestamp":"2026-06-12 19:53:00"}
+{"level":"info","message":"Swagger docs available at http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:53:00"}
+{"level":"info","message":"Environment: development","service":"crafts-backend","timestamp":"2026-06-12 19:53:00"}
+{"level":"info","message":"🛡️ Security mode enabled: Traditional Console blocked, logs redirected to Winston.","service":"crafts-backend","timestamp":"2026-06-12 19:53:39"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:53:39"}
+{"level":"info","message":"Server is running on port 4000","service":"crafts-backend","timestamp":"2026-06-12 19:53:39"}
+{"level":"info","message":"Swagger docs available at http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:53:39"}
+{"level":"info","message":"Environment: production","service":"crafts-backend","timestamp":"2026-06-12 19:53:39"}
+{"level":"info","message":"🛡️ Security mode enabled: Traditional Console blocked, logs redirected to Winston.","service":"crafts-backend","timestamp":"2026-06-12 19:56:03"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:56:03"}
+{"level":"info","message":"Server is running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:56:03"}
+{"level":"info","message":"Swagger docs available at http://localhost:4000http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-12 19:56:03"}
+{"level":"info","message":"Environment: production","service":"crafts-backend","timestamp":"2026-06-12 19:56:03"}
+{"level":"info","message":"🛡️ Security mode enabled: Traditional Console blocked, logs redirected to Winston.","service":"crafts-backend","timestamp":"2026-06-12 19:56:29"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:56:29"}
+{"level":"info","message":"Server is running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:56:30"}
+{"level":"info","message":"Swagger docs available at http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-12 19:56:30"}
+{"level":"info","message":"Environment: production","service":"crafts-backend","timestamp":"2026-06-12 19:56:30"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 19:58:30"}
+{"level":"info","message":"Server is running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 19:58:30"}
+{"level":"info","message":"Swagger docs available at http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-12 19:58:30"}
+{"level":"info","message":"Environment: development","service":"crafts-backend","timestamp":"2026-06-12 19:58:30"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 20:00:00"}
+{"level":"info","message":"Server is running on http://localhost:4000","service":"crafts-backend","timestamp":"2026-06-12 20:00:00"}
+{"level":"info","message":"Swagger docs available at http://localhost:4000/api/docs","service":"crafts-backend","timestamp":"2026-06-12 20:00:00"}
+{"level":"info","message":"Environment: development","service":"crafts-backend","timestamp":"2026-06-12 20:00:00"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 20:05:09"}
+{"level":"info","message":"Server is running on https://crafts-platform-api.vercel.app/","service":"crafts-backend","timestamp":"2026-06-12 20:05:09"}
+{"level":"info","message":"Swagger docs available at https://crafts-platform-api.vercel.app//api/docs","service":"crafts-backend","timestamp":"2026-06-12 20:05:09"}
+{"level":"info","message":"Environment: development","service":"crafts-backend","timestamp":"2026-06-12 20:05:09"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 20:06:49"}
+{"level":"info","message":"Server is running on https://crafts-platform-api.vercel.app","service":"crafts-backend","timestamp":"2026-06-12 20:06:49"}
+{"level":"info","message":"Swagger docs available at https://crafts-platform-api.vercel.app/api/docs","service":"crafts-backend","timestamp":"2026-06-12 20:06:49"}
+{"level":"info","message":"Environment: development","service":"crafts-backend","timestamp":"2026-06-12 20:06:49"}
+{"level":"info","message":"🛡️ Security mode enabled: Traditional Console blocked, logs redirected to Winston.","service":"crafts-backend","timestamp":"2026-06-12 20:08:21"}
+{"level":"info","message":"✅ Connected to MongoDB","service":"crafts-backend","timestamp":"2026-06-12 20:08:21"}
+{"level":"info","message":"Server is running on https://crafts-platform-api.vercel.app","service":"crafts-backend","timestamp":"2026-06-12 20:08:21"}
+{"level":"info","message":"Swagger docs available at https://crafts-platform-api.vercel.app/api/docs","service":"crafts-backend","timestamp":"2026-06-12 20:08:21"}
+{"level":"info","message":"Environment: production","service":"crafts-backend","timestamp":"2026-06-12 20:08:21"}

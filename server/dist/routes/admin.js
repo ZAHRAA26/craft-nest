@@ -1,0 +1,18 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const adminController_1 = require("../controllers/adminController");
+const auth_1 = require("../middleware/auth");
+const validation_1 = require("../middleware/validation");
+const authSchemas_1 = require("../validators/authSchemas");
+const rateLimiter_1 = require("../middleware/rateLimiter");
+const roles_1 = require("../constants/roles");
+const router = (0, express_1.Router)();
+router.use(auth_1.requireAuth);
+router.use((0, auth_1.requireRole)(roles_1.UserRole.ADMIN));
+router.get('/users', adminController_1.listUsers);
+router.patch('/users/:id/role', (0, validation_1.validateBody)(authSchemas_1.roleUpdateSchema), adminController_1.updateRole);
+router.patch('/users/:id/block', adminController_1.toggleBlock);
+router.post('/users/:id/revoke-refresh', adminController_1.revokeRefresh);
+router.post('/newsletter', rateLimiter_1.apiActionLimiter, (0, validation_1.validateBody)(authSchemas_1.newsletterSchema), adminController_1.sendNewsletter);
+exports.default = router;
