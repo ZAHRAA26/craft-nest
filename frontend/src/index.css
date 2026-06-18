@@ -1,6 +1,4 @@
 @import "tailwindcss";
-<<<<<<< HEAD
-=======
 
 @theme {
   --font-sans: "Inter", "Noto Sans Arabic", sans-serif;
@@ -51,4 +49,3 @@
   from { opacity: 0; }
   to { opacity: 1; }
 }
->>>>>>> 6e1dabcda81dddb42ef37623e440695202dc1dfb

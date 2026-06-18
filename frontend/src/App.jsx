@@ -1,22 +1,4 @@
 import './App.css'
-<<<<<<< HEAD
-import RegistrationForm from './features/auth/RegistrationForm/RegistrationForm'
-import { Routes, Route } from "react-router";
-import LoginForm from './features/auth/LoginForm/LoginForm'
-
-function App() {
-
-  return (
-    <Routes>
-      <Route index element={ <RegistrationForm/>} />
-      <Route path="/login" element={<LoginForm/>} />
-    </Routes>
-   
-  )
-}
-
-export default App
-=======
 import React, { useEffect } from 'react';
 import { Routes, Route, useLocation } from "react-router-dom";
 import { useDispatch, useSelector } from 'react-redux';
@@ -128,4 +110,3 @@ function App() {
 }
 
 export default App;
->>>>>>> 6e1dabcda81dddb42ef37623e440695202dc1dfb
