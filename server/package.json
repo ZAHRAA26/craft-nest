@@ -1,0 +1,54 @@
+{
+  "name": "crafts-platform-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend for Crafts Platform",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "2.8.6",
+    "dotenv": "17.4.2",
+    "express": "5.2.1",
+    "express-rate-limit": "8.5.2",
+    "helmet": "8.2.0",
+    "i18next": "26.3.0",
+    "i18next-fs-backend": "2.6.6",
+    "i18next-http-middleware": "3.9.7",
+    "jsonwebtoken": "9.0.3",
+    "mongoose": "9.6.2",
+    "morgan": "1.10.1",
+    "nodemailer": "8.0.8",
+    "passport": "0.7.0",
+    "passport-jwt": "4.0.1",
+    "pg": "8.21.0",
+    "swagger-jsdoc": "6.3.0",
+    "swagger-ui-express": "5.0.1",
+    "winston": "3.19.0",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/cors": "2.8.19",
+    "@types/express": "5.0.6",
+    "@types/jsonwebtoken": "9.0.10",
+    "@types/morgan": "1.9.10",
+    "@types/node": "25.9.1",
+    "@types/nodemailer": "8.0.0",
+    "@types/passport": "^1.0.16",
+    "@types/passport-jwt": "4.0.1",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.8",
+    "glob": "^13.0.6",
+    "nodemon": "3.1.14",
+    "ts-node": "10.9.2",
+    "typescript": "6.0.3"
+  },
+  "overrides": {
+    "glob": "$glob"
+  }
+}
