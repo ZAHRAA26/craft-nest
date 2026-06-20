@@ -259,7 +259,11 @@ const swaggerUiOptions = {
 };
 
 export function setupSwagger(app: Express) {
-  const controllersGlob = path.join(__dirname, 'controllers', '*.ts');
+  const controllersGlob = `${__dirname}/controllers/*.ts`;
   const spec = swaggerJSDoc({ definition: swaggerSpecification, apis: [controllersGlob] });
   app.use('/api/docs', swaggerUi.serve, swaggerUi.setup(spec, swaggerUiOptions));
+  console.log(__dirname);
+console.log(controllersGlob);
+  //@ts-ignore
+  console.log(Object.keys(spec.paths || {}));
 }

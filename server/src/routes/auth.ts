@@ -10,6 +10,7 @@ const router = Router();
 
 router.get('/me', passport.authenticate('jwt', { session: false }), asyncHandler(getMe));
 router.post('/logout', passport.authenticate('jwt', { session: false }), validateBody(logoutSchema), asyncHandler(logout));
+
 router.post('/register', authLimiter, validateBody(registerSchema), asyncHandler(register));
 router.post('/login', authLimiter, validateBody(loginSchema), asyncHandler(login));
 router.post('/refresh-token', validateBody(refreshTokenSchema), asyncHandler(refreshToken));
