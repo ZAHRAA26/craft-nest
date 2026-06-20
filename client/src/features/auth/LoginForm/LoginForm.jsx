@@ -48,7 +48,22 @@ function LoginForm() {
   }, [dispatch]);
 
   const onSubmit = (formData) => {
-    dispatch(loginUser(formData));
+     const result = await dispatch(loginUser(formData))
+
+  if (loginUser.fulfilled.match(result)) {
+    const role = result.payload.user.role
+
+    switch (role) {
+      case 'ADMIN':
+        navigate('/admin/dashboard')
+        break
+      case 'ARTISAN':
+        navigate('/artisan/dashboard')
+        break
+      default:
+        navigate('/')
+    }
+  }
   };
 
   const toggleLanguage = () => {
