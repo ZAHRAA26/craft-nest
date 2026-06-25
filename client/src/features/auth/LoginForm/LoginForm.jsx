@@ -47,7 +47,7 @@ function LoginForm() {
     };
   }, [dispatch]);
 
-  const onSubmit = (formData) => {
+  const onSubmit = async (formData) => {
      const result = await dispatch(loginUser(formData))
 
   if (loginUser.fulfilled.match(result)) {
