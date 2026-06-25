@@ -329,5 +329,5 @@ export async function resetPassword(req: Request, res: Response) {
 export async function verifyEmail(req: Request, res: Response) {
   const token = req.query.token as string;
   await authService.verifyEmailToken(token, req.language);
-  return res.json({ success: true, message: req.t('auth:email_verification_success') });
+  return res.json({ success: true, message: req.t('auth:verification.success') });
 }

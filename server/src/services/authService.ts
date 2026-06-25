@@ -5,6 +5,7 @@ import { generateAccessToken, generateEmailVerificationToken, generatePasswordRe
 import { sendVerificationEmail, sendPasswordResetEmail, sendWelcomeEmail } from '../utils/mailer';
 import { IUser } from '../models/user';
 import { UserRole, RoleValue, isPublicRegistrationRole, PublicRole, RoleMapping } from '../constants/roles';
+import { JwtPayload } from 'jsonwebtoken';
 
 export interface RegisterPayload {
   name: string;
@@ -77,7 +78,7 @@ export class AuthService {
   }
 
   async refreshToken(refreshToken: string) {
-    const payload = verifyJwt(refreshToken) as any;
+    const payload = verifyJwt(refreshToken) as JwtPayload;
     if (payload.type !== 'refresh' || !payload.sub || !payload.jti) {
       throw new HttpError(401, 'auth:invalid_refresh_token');
     }
@@ -100,9 +101,9 @@ export class AuthService {
   }
 
   async verifyEmailToken(token: string, lng = 'ar'): Promise<IUser> {
-    const payload = verifyJwt(token) as any;
+    const payload = verifyJwt(token) as JwtPayload;
     if (payload.action !== 'verify' || !payload.sub) {
-      throw new HttpError(400, 'auth:invalid_token');
+      throw new HttpError(400, 'auth:verification.token_invalid');
     }
 
     const user = await userService.findById(payload.sub);
@@ -110,7 +111,13 @@ export class AuthService {
       throw new HttpError(404, 'errors:user_not_found');
     }
 
+    if (user.verificationTokenExpires && user.verificationTokenExpires < new Date()) {
+  throw new HttpError(400, 'auth:verification.token_expired');
+}
+
     user.isEmailVerified = true;
+    user.verificationToken = undefined;
+    user.verificationTokenExpires = undefined;
     await user.save();
     await sendWelcomeEmail(user.email, user.name, lng);
     return user;

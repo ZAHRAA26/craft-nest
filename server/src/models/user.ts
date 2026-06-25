@@ -7,7 +7,9 @@ export interface IUser extends Document {
   password?: string;
   role: RoleValue;
   isEmailVerified: boolean;
-  isBlocked: boolean;
+  verificationToken?: string;
+  verificationTokenExpires?: Date;
+  isBlocked: boolean; 
   passwordChangedAt?: Date;
   craftSpecialty: string[];
   bio: { ar?: string; en?: string };
@@ -47,6 +49,12 @@ const UserSchema = new Schema<IUser>(
       type: Boolean, 
       default: false,
       index: true 
+    },
+    verificationToken: {
+      type: String
+    },
+    verificationTokenExpires: {
+      type: Date 
     },
     isBlocked: {
       type: Boolean,

@@ -84,7 +84,7 @@ const swaggerSpecification = {
             type: 'string', 
             enum: ['artisan', 'buyer'],
             description: 'The user role. Defaults to buyer.', 
-            example: 'artisan' 
+            example: 'buyer' 
           },
           craftSpecialty: {
             type: 'array',
@@ -259,7 +259,7 @@ const swaggerUiOptions = {
 };
 
 export function setupSwagger(app: Express) {
-  const controllersGlob = path.join(__dirname, 'controllers', '*.ts');
-  const spec = swaggerJSDoc({ definition: swaggerSpecification, apis: [controllersGlob] });
-  app.use('/api/docs', swaggerUi.serve, swaggerUi.setup(spec, swaggerUiOptions));
+const controllersGlob = `${__dirname}/controllers/*.ts`;
+const spec = swaggerJSDoc({ definition: swaggerSpecification, apis: [controllersGlob] });
+app.use('/api/docs', swaggerUi.serve, swaggerUi.setup(spec, swaggerUiOptions));
 }

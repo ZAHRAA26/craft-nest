@@ -3,15 +3,20 @@ import i18next from 'i18next';
 import { config } from '../config';
 import logger from './logger';
 
-const transporter = nodemailer.createTransport({
+const configOptions = {
   host: config.mail.host,
   port: config.mail.port,
   secure: config.mail.secure,
-  auth: config.mail.user
-    ? { user: config.mail.user, pass: config.mail.pass || '' }
-    : undefined,
+  service: 'gmail',
+  auth: {
+    user: config.mail.user,
+    pass: config.mail.pass,
+  },
   tls: { rejectUnauthorized: false }
-});
+};
+
+// إعداد ناقل البريد الإلكتروني باستخدام nodemailer
+const transporter = nodemailer.createTransport(configOptions);
 
 const defaultFrom = config.mail.from;
 
@@ -62,6 +67,7 @@ async function sendMail(to: string, subject: string, text: string, html: string)
     if (isDev) {
       logger.warn(`📧 Email failed to ${to} (${error.message}), but continuing registration.`);
       logger.info(`🔗 Fallback Content:\nSubject: ${subject}\nText: ${text}`);
+      console.log(error);
       return;
     }
     // في الإنتاج، نلقي الخطأ لضمان سلامة عملية التفعيل
