@@ -35,11 +35,11 @@ export const config = {
   // إعدادات البريد الإلكتروني
   mail: {
     host: process.env.SMTP_HOST as string,
-    port: Number(process.env.SMTP_PORT) || 1025,
+    port: Number(process.env.SMTP_PORT),
     secure: process.env.SMTP_SECURE === 'true',
     user: process.env.SMTP_USER as string,
     pass: process.env.SMTP_PASS as string,
-    from: process.env.SMTP_FROM as string || 'Crafts Platform <no-reply@crafts.local>',
+    from: process.env.SMTP_FROM as string,
   },
 
   // روابط الواجهة الأمامية والتوثيق

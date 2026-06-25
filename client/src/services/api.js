@@ -1,12 +1,14 @@
 // src/services/api.js
 import axios from 'axios';
 
-export const BASE_URL = 'http://localhost:5002/api';
+export const BASE_URL = import.meta.env.VITE_APP_API_BASE_URL + '/api';
 
 const api = axios.create({
   baseURL: BASE_URL,
   headers: {
     'Content-Type': 'application/json',
+    'Accept-Language': localStorage.getItem('i18nextLng') || 'ar', // Use the stored language or default to Arabic  
+  
   },
 });
 

@@ -37,7 +37,7 @@ export const registerSchema = z.object({
 }).strict(); // منع إرسال حقول إضافية غير معرفة
 
 export const loginSchema = z.object({
-  email: z.string()
+  email: z
     .email('errors:invalid_email')
     .toLowerCase()
     .trim(),
