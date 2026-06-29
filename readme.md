@@ -456,7 +456,7 @@ Create a `.env` file in `/server`:
 
 ```env
 # Server
-PORT=5000
+PORT=5002
 NODE_ENV=development
 
 # Database
